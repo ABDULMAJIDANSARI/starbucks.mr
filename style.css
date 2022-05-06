@@ -1,7 +1,3 @@
-.{
-    padding: 0px;
-    margin: 0px;
-}
 body{
     font-family: 'Baloo Bhai 2', cursive;
 font-family: 'PT Sans', sans-serif;
@@ -893,7 +889,6 @@ text-align: left;
     padding-right: 10px;
  }
  .terms{
-
     padding-right: 10px;
  }
  .background5 p{
